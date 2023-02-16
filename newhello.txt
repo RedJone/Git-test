@@ -6,3 +6,4 @@ the 2nd fixed ---------hot-fix branch---version2.0 test
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> merged file
 ======================
 after pull,and fixed file.will pushing to far repository!!!
+fixed online+++
